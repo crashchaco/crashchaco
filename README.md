@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @crashchaco
+- 👀 I’m interested in challenges
+- 🌱 I’m currently learning Java, Python and Javascript
+- 💞️ I’m looking to collaborate on a proyect
+- 📫 mati_miro@hotmail.com
+- 🌍 matiasmiro.com
